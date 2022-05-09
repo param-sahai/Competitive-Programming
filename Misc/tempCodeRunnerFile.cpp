@@ -1,0 +1,10 @@
+// cout<<pop();
+// cout<<pop();
+// cout<<pop();
+// cout<<pop();
+// cout<<pop();
+// cout<<pop();
+// cout<<pop();
+// cout<<pop();
+// cout<<pop();
+// cout<<pop();
