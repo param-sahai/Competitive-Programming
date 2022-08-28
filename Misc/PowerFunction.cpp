@@ -19,8 +19,6 @@ int powerFunction(int x, int y){
 }
 int main()
 {
-// ios_base::sync_with_stdio(false);
-// cin.tie(NULL);
 int x=0,y=0;
  cout<<"Enter the value of x and y: ";
  cin>>x>>y;
